@@ -6,7 +6,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 st.title("Emotion Detection Using Text")
 
 # load the model
-model = joblib.load("rf_model.pkl")
+model = joblib.load("rf_model_comp.pkl")
 vectorizer = joblib.load("vectorizer.pkl")
 
 user_input = st.text_area("Enter the text")
