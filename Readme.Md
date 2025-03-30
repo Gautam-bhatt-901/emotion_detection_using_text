@@ -1,2 +1,2 @@
 ## Emotion Detecion Using Text
-[Click Here to visit working website](https://emotiondetectionusingtext-jvc4d7kamkinuaag8jha7j.streamlit.app/)
+[Click Here to visit working website](https://https://huggingface.co/spaces/Gautam30/emotion_detection_using_text)
